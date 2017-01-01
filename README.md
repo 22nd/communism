@@ -1,2 +1,2 @@
 # communism
-## [need based access](need_based_access.md)
+## [need orientation](need_orientation.md)
