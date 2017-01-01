@@ -1,2 +1,4 @@
 # communism
-## [need orientation](need_orientation.md)
+## goals
+* [need orientation](need_orientation.md)
+* [anarchism](anarchism.md)
